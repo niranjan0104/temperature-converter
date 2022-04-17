@@ -1,0 +1,28 @@
+body{
+    background-color: #FDD7AA;
+    color: #363062;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Heebo', sans-serif;
+}
+
+h1{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 170px;
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+article{
+    margin-right: 16px;
+}
+input{
+    font-size: 20px;
+    padding: 10px;
+}
